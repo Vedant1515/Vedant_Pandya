@@ -1,0 +1,7 @@
+metarig.002/Neck
+metarig.002/spine
+metarig.002/spine/spine.001
+metarig.002/spine/spine.001/spine.002
+metarig.002/spine/spine.001/spine.002/spine.003
+metarig.002/spine/spine.001/spine.002/spine.003/spine.005
+metarig.002/spine/spine.001/spine.002/spine.003/spine.005/spine.006
