@@ -45,13 +45,21 @@ const Navbar = () => {
         <a href="/#" className="navbar-title" data-cursor="disable">
           VP
         </a>
-        <a
-          href="mailto:vedantpandya1515@email.com"
-          className="navbar-connect"
-          data-cursor="disable"
-        >
-          vedantpandya1515@email.com
-        </a>
+        <div className="navbar-connect">
+          <a
+            href="mailto:vedantpandya1515@email.com"
+            data-cursor="disable"
+          >
+            vedantpandya1515@email.com
+          </a>
+          <span className="navbar-sep">/</span>
+          <a
+            href="tel:+61481846637"
+            data-cursor="disable"
+          >
+            +61 481846637
+          </a>
+        </div>
         <ul>
           <li>
             <a data-href="#about" href="#about">

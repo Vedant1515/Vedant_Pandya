@@ -39,6 +39,12 @@
   font-size: 15px;
   letter-spacing: 1px;
   font-weight: 500;
+  gap: 15px;
+  align-items: center;
+}
+
+.navbar-sep {
+  opacity: 0.5;
 }
 .navbar-title {
   font-weight: 700;
@@ -63,7 +69,7 @@
 }
 @media only screen and (min-width: 900px) {
   .navbar-connect {
-    display: block;
+    display: flex;
   }
 }
 @media only screen and (min-width: 1200px) {

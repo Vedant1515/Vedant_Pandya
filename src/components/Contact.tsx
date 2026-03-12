@@ -14,6 +14,12 @@ const Contact = () => {
                 vedantpandya1515@email.com
               </a>
             </p>
+            <h4>Phone</h4>
+            <p>
+              <a href="tel:+61481846637" data-cursor="disable">
+                +61 481846637
+              </a>
+            </p>
             <h4>Education</h4>
             <p>Masters of Information Technology<br />Deakin University, Melbourne</p>
           </div>
