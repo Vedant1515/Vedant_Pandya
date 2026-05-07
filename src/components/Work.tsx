@@ -4,11 +4,18 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "E-Commerce Platform",
+    category: "Cloud Native / DevOps",
+    tools: "AWS, Kubernetes, Docker, GitHub Actions, Grafana, Prometheus",
+    description:
+      "Architected and deployed a fully cloud-native e-commerce platform on AWS, leveraging Kubernetes for container orchestration with a private image registry. Implemented a CI/CD pipeline via GitHub Actions with blue-green deployment logic for zero-downtime releases. Integrated Grafana and Prometheus for real-time performance monitoring and alerting.",
+  },
+  {
     title: "NutriHelp",
     category: "Capstone Project",
     tools: "React, Node.js, Supabase, PDF Export",
     description:
-      "Built a sustainability-focused meal-planning app with recipe selection and PDF ingredient exports. Led frontend integration and coordinated team deliverables. Presented at InnoFes, receiving strong recognition for innovation and real-world impact.",
+      "Built a sustainability-focused meal-planning app with recipe selection and PDF ingredient exports. Served as Technical Lead, coordinating frontend integration and team deliverables across multiple groups. Presented at InnoFes, receiving strong recognition for innovation and real-world impact.",
   },
   {
     title: "Attendance System",
